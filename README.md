@@ -1,7 +1,7 @@
 - 👋 Hi, I’m *@ionplaton*
 - 👀 I’m interested in the **blockchain technology**.
 - 🌱 I’m currently uploading blockchain developer skills to my brains. I am doing this on daily basis, six hours per day, from Monday to Saturday ("*chacked boxes*" - **I know**, "*unchecked boxes*" - **I will know in a few months**): 
-     - [ ] HTML
+     - [ v] HTML
      - [ ] CSS
      - [ ] Javascript
      - [ ] ReactJS
