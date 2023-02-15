@@ -1,16 +1,16 @@
 - 👋 Hi, I’m *@ionplaton*
 - 👀 I’m interested in the **blockchain technology**.
 - 🌱 I’m currently uploading blockchain developer skills to my brains. I am doing this on daily basis, six hours per day, from Monday to Saturday ("*chacked boxes*" - **I know**, "*unchecked boxes*" - **I will know in a few months**): 
-     - [x] HTML
-     - [ ] CSS
-     - [ ] Javascript
+     - [x] HTML (basic)
+     - [x] CSS (basic)
+     - [x] Javascript (basic)
      - [ ] ReactJS
-     - [ ] NodeJS
-     - [ ] Blockchain
+     - [x] NodeJS (basic)
+     - [x] Blockchain
      - [ ] Web3JS
-     - [ ] EthersJS
-     - [ ] Solidity
-     - [ ] Remix
+     - [ ] EthersJS 
+     - [x] Solidity basic)
+     - [x] Remix (advanced)
      - [ ] Truffle
      - [ ] Ganash
      - [ ] Hardhat
