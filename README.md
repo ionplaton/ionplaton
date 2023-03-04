@@ -11,8 +11,8 @@
      - [ ] EthersJS 
      - [x] Solidity basic)
      - [x] Remix (advanced)
-     - [ ] Truffle
-     - [ ] Ganash
+     - [x] Truffle
+     - [x] Ganash
      - [ ] Hardhat
      - [ ] Algoritmic Skills
      - [ ] Phyton.
